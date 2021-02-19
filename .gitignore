@@ -1,0 +1,9 @@
+# Project exclude paths
+
+/project/target/
+/target/
+*.DS_Store
+.coursecreator
+**/target/**
+**/project/**
+.idea

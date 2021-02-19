@@ -1,0 +1,44 @@
+type: output
+files:
+- name: src/Main.scala
+  visible: true
+  placeholders:
+  - offset: 156
+    length: 7
+    placeholder_text: ???
+  - offset: 194
+    length: 7
+    placeholder_text: ???
+  - offset: 235
+    length: 11
+    placeholder_text: ???
+  - offset: 280
+    length: 9
+    placeholder_text: ???
+  - offset: 320
+    length: 7
+    placeholder_text: ???
+  - offset: 361
+    length: 4
+    placeholder_text: ???
+  - offset: 399
+    length: 4
+    placeholder_text: ???
+  - offset: 434
+    length: 7
+    placeholder_text: ???
+  - offset: 472
+    length: 7
+    placeholder_text: ???
+  - offset: 511
+    length: 4
+    placeholder_text: ???
+  - offset: 550
+    length: 10
+    placeholder_text: ???
+- name: build.sbt
+  visible: false
+- name: test/output.txt
+  visible: false
+- name: src/AnswerChecker.scala
+  visible: false
